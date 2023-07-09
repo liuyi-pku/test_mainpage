@@ -13,7 +13,7 @@ I am a Ph.D student at [LANCO](https://lancopku.github.io) group, School of Comp
 Education
 ======
 * Ph.D student in Computer Software and Theory, Peking University, 2021.9 - Present
-* BSc of Management, Peking University, 2017.9 - 2021.7
+* Bachelor of Management, Peking University, 2017.9 - 2021.7
 
 Publications
 ======
