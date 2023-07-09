@@ -17,7 +17,7 @@ Education
 
 Publications
 ======
-* **Exploring In-Context Learning for Overnight Stock Price Movement Prediction with Large Language Models**
+* **Exploring In-Context Learning for Overnight Stock Price Movement Prediction with Large Language Models** [[pdf]](https://arxiv.org/pdf/2305.12449.pdf)
 
   **Yi Liu**, Lei Li, Shicheng Li, Ruihan Bao, Keiko Harimoto and Xu Sun
 
