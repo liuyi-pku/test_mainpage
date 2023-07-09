@@ -8,9 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student in the School of Electronics Engineering and Computer Science at Peking University. I am a member of [LANCO](https://lancopku.github.io) group and advised by Prof. [Xu Sun](https://xusun.org). My research interests include natural language processing and machine learning.
+I am a Ph.D student at [LANCO](https://lancopku.github.io) group, School of Computer Science, Peking University and advised by Prof. [Xu Sun](https://xusun.org). My research interests include natural language processing and machine learning.
 
 Education
 ======
-* Ph.D student in Computer Software and Theory, Peking University, Sept. 2021 - Now. 
-* Bachelor of Information Management and Information System, Peking University, Sept. 2017 - July 2021.
+* Ph.D student in Computer Software and Theory, Peking University, 2021.9 - Present
+* BSc of Management, Peking University, 2017.9 - 2021.7
+
+Publications
+======
+* **Exploring In-Context Learning for Overnight Stock Price Movement Prediction with Large Language Models**
+
+  **Yi Liu**, Lei Li, Shicheng Li, Ruihan Bao, Keiko Harimoto and Xu Sun
+
+  In FinLLM workshop of IJCAI, 2023
+
+* **Communication Efficient Federated Learning for Multilingual Neural Machine Translation with Adapter**
+
+  **Yi Liu**, Xiaohan Bi, Lei Li, Sishuo Chen, Wenkai Yang and Xu Sun
+
+  In Findings of ACL 2023
