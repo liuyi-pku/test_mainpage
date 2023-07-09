@@ -17,13 +17,13 @@ Education
 
 Publications
 ======
-* **Exploring In-Context Learning for Overnight Stock Price Movement Prediction with Large Language Models** [[pdf]](https://arxiv.org/pdf/2305.12449.pdf)
+* **Exploring In-Context Learning for Overnight Stock Price Movement Prediction with Large Language Models**
 
   **Yi Liu**, Lei Li, Shicheng Li, Ruihan Bao, Keiko Harimoto and Xu Sun
 
   In FinLLM workshop of IJCAI, 2023
 
-* **Communication Efficient Federated Learning for Multilingual Neural Machine Translation with Adapter**
+* **Communication Efficient Federated Learning for Multilingual Neural Machine Translation with Adapter** [[pdf]](https://arxiv.org/pdf/2305.12449.pdf)
 
   **Yi Liu**, Xiaohan Bi, Lei Li, Sishuo Chen, Wenkai Yang and Xu Sun
 
