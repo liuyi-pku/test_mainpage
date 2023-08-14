@@ -17,11 +17,22 @@ Education
 
 Publications
 ======
+* **VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models**
+
+  Shicheng Li, Lei Li, Shuhuai Ren, Yuanxin Liu, Yi Liu, Rundong Gao, Xu Sun, Lu Hou
+
+  NeurIPS 2023 Under Review
+
 * **Exploring In-Context Learning for Overnight Stock Price Movement Prediction with Large Language Models**
 
   **Yi Liu**, Lei Li, Shicheng Li, Ruihan Bao, Keiko Harimoto and Xu Sun
 
-  In FinLLM workshop of IJCAI, 2023
+  In IJCAI 2023 Symposium on FinLLM
+
+* **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**
+  Ruibo Chen, Zhiyuan Zhang, **Yi Liu**, Ruihan Bao, Keiko Harimoto and Xu Sun
+
+  In KDD 2023 Workshop on Machine Learning in Finance
 
 * **Communication Efficient Federated Learning for Multilingual Neural Machine Translation with Adapter** [[pdf]](https://arxiv.org/pdf/2305.12449.pdf)
 
