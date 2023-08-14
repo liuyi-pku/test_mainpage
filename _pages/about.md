@@ -19,7 +19,7 @@ Publications
 ======
 * **VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models**
 
-  Shicheng Li, Lei Li, Shuhuai Ren, Yuanxin Liu, Yi Liu, Rundong Gao, Xu Sun, Lu Hou
+  Shicheng Li, Lei Li, Shuhuai Ren, Yuanxin Liu, **Yi Liu**, Rundong Gao, Xu Sun, Lu Hou
 
   NeurIPS 2023 Under Review
 
