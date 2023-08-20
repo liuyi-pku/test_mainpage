@@ -30,6 +30,7 @@ Publications
   In IJCAI 2023 International Symposium on FinLLM
 
 * **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**
+
   Ruibo Chen, Zhiyuan Zhang, **Yi Liu**, Ruihan Bao, Keiko Harimoto and Xu Sun
 
   In KDD 2023 Workshop on Machine Learning in Finance
